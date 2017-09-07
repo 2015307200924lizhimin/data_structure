@@ -1,3 +1,4 @@
+```
 #Hello Word
 #it's a test file for the new git repository
 #python3
@@ -18,4 +19,4 @@ while(True):
 		print(fastpow(a,n))
 	except EOFError:
 		break
-
+```
